@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea292ffb.css",
+    "main.js": "/static/js/main.c96afb6c.js",
+    "static/js/787.5225b253.chunk.js": "/static/js/787.5225b253.chunk.js",
+    "static/media/Frame 1.png": "/static/media/Frame 1.96b790903b97ced3c1bd.png",
+    "static/media/Image 6.png": "/static/media/Image 6.8c8e4e7337f20103ad32.png",
+    "static/media/Image 5.png": "/static/media/Image 5.083637bf378099c3a032.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.1ba679c05036b34bf359.ttf",
+    "static/media/Image 1.png": "/static/media/Image 1.39967fcf548712d9fa67.png",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Image 3.png": "/static/media/Image 3.e70a7cc75f49cc12eda0.png",
+    "static/media/Image 4.png": "/static/media/Image 4.0d4dc0f1ad388dbcc184.png",
+    "static/media/Image 2.png": "/static/media/Image 2.3b7cf06e20ec9d810826.png",
+    "static/media/Category 4.png": "/static/media/Category 4.a283bb7f7cb28922c5c2.png",
+    "static/media/Group 3.png": "/static/media/Group 3.e4ddf8f28686015640f4.png",
+    "static/media/Category 5.png": "/static/media/Category 5.4296a372522feeec7e32.png",
+    "static/media/Group 6.png": "/static/media/Group 6.fb4b05896e1464f43a2e.png",
+    "static/media/Group 7.png": "/static/media/Group 7.c545a022110f996a8ad6.png",
+    "static/media/Group 1.png": "/static/media/Group 1.0e0cc06907f5a130b791.png",
+    "static/media/Category 2.png": "/static/media/Category 2.060faf17192526a81c12.png",
+    "static/media/Category 6.png": "/static/media/Category 6.5bf1011587d38914898d.png",
+    "static/media/Group 5.png": "/static/media/Group 5.15f4f60b08519ab2aa31.png",
+    "static/media/Category 1.png": "/static/media/Category 1.0a8429da66abb36a97d1.png",
+    "static/media/Category 3.png": "/static/media/Category 3.215fbde55e3731a14154.png",
+    "static/media/Group 4.png": "/static/media/Group 4.964e6b7348b531a3608e.png",
+    "static/media/Group 2.png": "/static/media/Group 2.0a9d1f37f4d0ab32ffd6.png",
+    "index.html": "/index.html",
+    "main.ea292ffb.css.map": "/static/css/main.ea292ffb.css.map",
+    "main.c96afb6c.js.map": "/static/js/main.c96afb6c.js.map",
+    "787.5225b253.chunk.js.map": "/static/js/787.5225b253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea292ffb.css",
+    "static/js/main.c96afb6c.js"
+  ]
+}
